@@ -6,11 +6,11 @@ D:\_REPOSITORIES\.Net_Developer\002_lesson\patient_cars\obj\Debug\patient_card.c
 D:\_REPOSITORIES\.Net_Developer\002_lesson\patient_cars\obj\Debug\patient_card.csproj.CoreCompileInputs.cache
 D:\_REPOSITORIES\.Net_Developer\002_lesson\patient_cars\obj\Debug\patient_cars.exe
 D:\_REPOSITORIES\.Net_Developer\002_lesson\patient_cars\obj\Debug\patient_cars.pdb
-D:\_REPOSITORIES\.Net_Developer_CBS_course\002_lesson\patient_cars\bin\Debug\patient_cars.exe.config
-D:\_REPOSITORIES\.Net_Developer_CBS_course\002_lesson\patient_cars\bin\Debug\patient_cars.exe
-D:\_REPOSITORIES\.Net_Developer_CBS_course\002_lesson\patient_cars\bin\Debug\patient_cars.pdb
 D:\_REPOSITORIES\.Net_Developer_CBS_course\002_lesson\patient_cars\obj\Debug\patient_card.csproj.AssemblyReference.cache
 D:\_REPOSITORIES\.Net_Developer_CBS_course\002_lesson\patient_cars\obj\Debug\patient_card.csproj.SuggestedBindingRedirects.cache
 D:\_REPOSITORIES\.Net_Developer_CBS_course\002_lesson\patient_cars\obj\Debug\patient_card.csproj.CoreCompileInputs.cache
-D:\_REPOSITORIES\.Net_Developer_CBS_course\002_lesson\patient_cars\obj\Debug\patient_cars.exe
-D:\_REPOSITORIES\.Net_Developer_CBS_course\002_lesson\patient_cars\obj\Debug\patient_cars.pdb
+D:\_REPOSITORIES\.Net_Developer_CBS_course\002_lesson\patient_cars\bin\Debug\patient_card.exe.config
+D:\_REPOSITORIES\.Net_Developer_CBS_course\002_lesson\patient_cars\bin\Debug\patient_card.exe
+D:\_REPOSITORIES\.Net_Developer_CBS_course\002_lesson\patient_cars\bin\Debug\patient_card.pdb
+D:\_REPOSITORIES\.Net_Developer_CBS_course\002_lesson\patient_cars\obj\Debug\patient_card.exe
+D:\_REPOSITORIES\.Net_Developer_CBS_course\002_lesson\patient_cars\obj\Debug\patient_card.pdb
