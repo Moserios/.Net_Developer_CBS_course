@@ -1,0 +1,8 @@
+D:\_REPOSITORIES\.Net_Developer\002_lesson\patient_cars\bin\Debug\patient_cars.exe.config
+D:\_REPOSITORIES\.Net_Developer\002_lesson\patient_cars\bin\Debug\patient_cars.exe
+D:\_REPOSITORIES\.Net_Developer\002_lesson\patient_cars\bin\Debug\patient_cars.pdb
+D:\_REPOSITORIES\.Net_Developer\002_lesson\patient_cars\obj\Debug\patient_cars.csproj.AssemblyReference.cache
+D:\_REPOSITORIES\.Net_Developer\002_lesson\patient_cars\obj\Debug\patient_cars.csproj.SuggestedBindingRedirects.cache
+D:\_REPOSITORIES\.Net_Developer\002_lesson\patient_cars\obj\Debug\patient_cars.csproj.CoreCompileInputs.cache
+D:\_REPOSITORIES\.Net_Developer\002_lesson\patient_cars\obj\Debug\patient_cars.exe
+D:\_REPOSITORIES\.Net_Developer\002_lesson\patient_cars\obj\Debug\patient_cars.pdb
