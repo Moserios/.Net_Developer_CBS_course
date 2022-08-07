@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patient_card", "patient_card.csproj", "{B70C30EA-9907-4605-879B-CB53E4ED8CFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2", "..\HW2\HW2.csproj", "{40F9D102-CAC5-4AF1-8662-C50200E151F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B70C30EA-9907-4605-879B-CB53E4ED8CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B70C30EA-9907-4605-879B-CB53E4ED8CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B70C30EA-9907-4605-879B-CB53E4ED8CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F9D102-CAC5-4AF1-8662-C50200E151F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F9D102-CAC5-4AF1-8662-C50200E151F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F9D102-CAC5-4AF1-8662-C50200E151F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F9D102-CAC5-4AF1-8662-C50200E151F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
